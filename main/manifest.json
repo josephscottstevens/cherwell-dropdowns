@@ -1,0 +1,12 @@
+{
+    "name": "Cherwell Drodowns",
+    "version": "0.1",
+    "description": "Cherwell removed dropdowns, lets get them back",
+    "content_scripts": [
+        {
+            "js": ["main.js"],
+            "matches": ["<all_urls>"]
+        }
+    ],
+    "manifest_version": 3
+}
