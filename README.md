@@ -1,15 +1,16 @@
-# Testing service worker termination
+# Cherwell UX Enhancer
 
-## Overview
+Cherwell is a widely-used tool for ticket management. However, like any software, there are areas where the user experience could be improved. This open-source project aims to enhance the usability of the Cherwell application, starting with an improvement to the team selection process.
 
-**Note:** The test extension is intentionally broken as part of a tutorial in
-our documentation. See [Test service worker termination with Puppeteer](https://developer.chrome.com/docs/extensions/how-to/test/test-serviceworker-termination-with-puppeteer).
+## Key Features
 
-Sample code to show how to terminate a service worker in Puppeteer or Selenium.
+- **Improved Team Selection Interface**:  
+  Adds a dropdown to the team selection UI, allowing users to quickly and directly select their team without navigating the cumbersome team search interface. This feature saves time and streamlines the workflow.
 
-## Running the tests
+## Open Source
 
-1. Install [Node.JS](https://nodejs.org/).
-2. Change to the `puppeteer` or `selenium` directory.
-3. Run `npm install`.
-4. Run `npm start`.
+This project is open source, inviting contributions and feedback from the community to make Cherwell an even better tool.
+
+---
+
+Feel free to contribute, report issues, or suggest enhancements!
