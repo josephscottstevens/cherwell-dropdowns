@@ -5,7 +5,7 @@
     "content_scripts": [
         {
             "js": ["main.js"],
-            "matches": ["<all_urls>"]
+            "matches": ["https://itsupport.efleets.com/*"]
         }
     ],
     "manifest_version": 3
